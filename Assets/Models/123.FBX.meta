@@ -1,0 +1,558 @@
+fileFormatVersion: 2
+guid: ba34789d93698f4408e3ef0261fc5c53
+timeCreated: 1542483310
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: boltik01
+    100004: boltik02
+    100006: boltik03
+    100008: boltik04
+    100010: boltik05
+    100012: boltik06
+    100014: boltik07
+    100016: boltik08
+    100018: boltik09
+    100020: boltik10
+    100022: boltik11
+    100024: boltik12
+    100026: boltik13
+    100028: boltik14
+    100030: boltik15
+    100032: boltik16
+    100034: boltik17
+    100036: boltik18
+    100038: boltik19
+    100040: boltik20
+    100042: boltik21
+    100044: boltik22
+    100046: boltik23
+    100048: boltik24
+    100050: centralnya opora
+    100052: Cylinder01
+    100054: Cylinder02
+    100056: Cylinder03
+    100058: Cylinder04
+    100060: Cylinder05
+    100062: Cylinder06
+    100064: Cylinder07
+    100066: Cylinder08
+    100068: Cylinder09
+    100070: Cylinder10
+    100072: Line02
+    100074: Line03
+    100076: Line04
+    100078: Line05
+    100080: Line06
+    100082: Line07
+    100084: Line08
+    100086: Line09
+    100088: Line10
+    100090: Line11
+    100092: Line12
+    100094: Line13
+    100096: Line16
+    100098: Line17
+    100100: Line18
+    100102: Line19
+    100104: Line20
+    100106: Line21
+    100108: Line22
+    100110: Line23
+    100112: Line24
+    100114: Line25
+    100116: metal list 01
+    100118: metal list 02
+    100120: plakat01
+    100122: plakat02
+    100124: rama01
+    100126: rama02
+    100128: rama03
+    100130: rama04
+    100132: rezinovye shtuki 01
+    100134: rezinovye shtuki 02
+    100136: rezinovye shtuki 03
+    100138: rezinovye shtuki 04
+    100140: rezinovye shtuki 05
+    100142: rezinovye shtuki 06
+    100144: shit 02
+    100146: shit01
+    100148: steklo01
+    100150: steklo02
+    100152: steklo03
+    100154: steklo04
+    100156: zagim prostoi01
+    100158: zagim smoothed 01
+    100160: zagim smoothed 02
+    100162: zagim smoothed 03
+    100164: zagim smoothed 04
+    100166: zagim smoothed 05
+    100168: zagim smoothed 06
+    100170: zagim smoothed 07
+    100172: zagim smoothed 08
+    100174: zagim smoothed 09
+    100176: zagim smoothed 10
+    100178: zagim smoothed 11
+    100180: zagim smoothed 12
+    100182: zagim smoothed 13
+    100184: zagim smoothed 14
+    100186: zagim smoothed 15
+    100188: zagim smoothed 16
+    400000: //RootNode
+    400002: boltik01
+    400004: boltik02
+    400006: boltik03
+    400008: boltik04
+    400010: boltik05
+    400012: boltik06
+    400014: boltik07
+    400016: boltik08
+    400018: boltik09
+    400020: boltik10
+    400022: boltik11
+    400024: boltik12
+    400026: boltik13
+    400028: boltik14
+    400030: boltik15
+    400032: boltik16
+    400034: boltik17
+    400036: boltik18
+    400038: boltik19
+    400040: boltik20
+    400042: boltik21
+    400044: boltik22
+    400046: boltik23
+    400048: boltik24
+    400050: centralnya opora
+    400052: Cylinder01
+    400054: Cylinder02
+    400056: Cylinder03
+    400058: Cylinder04
+    400060: Cylinder05
+    400062: Cylinder06
+    400064: Cylinder07
+    400066: Cylinder08
+    400068: Cylinder09
+    400070: Cylinder10
+    400072: Line02
+    400074: Line03
+    400076: Line04
+    400078: Line05
+    400080: Line06
+    400082: Line07
+    400084: Line08
+    400086: Line09
+    400088: Line10
+    400090: Line11
+    400092: Line12
+    400094: Line13
+    400096: Line16
+    400098: Line17
+    400100: Line18
+    400102: Line19
+    400104: Line20
+    400106: Line21
+    400108: Line22
+    400110: Line23
+    400112: Line24
+    400114: Line25
+    400116: metal list 01
+    400118: metal list 02
+    400120: plakat01
+    400122: plakat02
+    400124: rama01
+    400126: rama02
+    400128: rama03
+    400130: rama04
+    400132: rezinovye shtuki 01
+    400134: rezinovye shtuki 02
+    400136: rezinovye shtuki 03
+    400138: rezinovye shtuki 04
+    400140: rezinovye shtuki 05
+    400142: rezinovye shtuki 06
+    400144: shit 02
+    400146: shit01
+    400148: steklo01
+    400150: steklo02
+    400152: steklo03
+    400154: steklo04
+    400156: zagim prostoi01
+    400158: zagim smoothed 01
+    400160: zagim smoothed 02
+    400162: zagim smoothed 03
+    400164: zagim smoothed 04
+    400166: zagim smoothed 05
+    400168: zagim smoothed 06
+    400170: zagim smoothed 07
+    400172: zagim smoothed 08
+    400174: zagim smoothed 09
+    400176: zagim smoothed 10
+    400178: zagim smoothed 11
+    400180: zagim smoothed 12
+    400182: zagim smoothed 13
+    400184: zagim smoothed 14
+    400186: zagim smoothed 15
+    400188: zagim smoothed 16
+    2100000: No Name
+    2100002: 'Material #40'
+    2100004: 'Material #33'
+    2100006: 'Material #39'
+    2100008: 'Material #35'
+    2100010: 'Material #31'
+    2100012: 'Material #32'
+    2300000: boltik01
+    2300002: boltik02
+    2300004: boltik03
+    2300006: boltik04
+    2300008: boltik05
+    2300010: boltik06
+    2300012: boltik07
+    2300014: boltik08
+    2300016: boltik09
+    2300018: boltik10
+    2300020: boltik11
+    2300022: boltik12
+    2300024: boltik13
+    2300026: boltik14
+    2300028: boltik15
+    2300030: boltik16
+    2300032: boltik17
+    2300034: boltik18
+    2300036: boltik19
+    2300038: boltik20
+    2300040: boltik21
+    2300042: boltik22
+    2300044: boltik23
+    2300046: boltik24
+    2300048: Cylinder01
+    2300050: Cylinder02
+    2300052: Cylinder03
+    2300054: Cylinder04
+    2300056: Cylinder05
+    2300058: Cylinder06
+    2300060: Cylinder07
+    2300062: Cylinder08
+    2300064: Cylinder09
+    2300066: Cylinder10
+    2300068: Line02
+    2300070: Line03
+    2300072: Line04
+    2300074: Line05
+    2300076: Line06
+    2300078: Line07
+    2300080: Line08
+    2300082: Line09
+    2300084: Line10
+    2300086: Line11
+    2300088: Line12
+    2300090: Line13
+    2300092: Line16
+    2300094: Line17
+    2300096: Line18
+    2300098: Line19
+    2300100: Line20
+    2300102: Line21
+    2300104: Line22
+    2300106: Line23
+    2300108: Line24
+    2300110: Line25
+    2300112: metal list 01
+    2300114: metal list 02
+    2300116: plakat01
+    2300118: plakat02
+    2300120: rama01
+    2300122: rama02
+    2300124: rama03
+    2300126: rama04
+    2300128: rezinovye shtuki 01
+    2300130: rezinovye shtuki 02
+    2300132: rezinovye shtuki 03
+    2300134: rezinovye shtuki 04
+    2300136: rezinovye shtuki 05
+    2300138: rezinovye shtuki 06
+    2300140: steklo01
+    2300142: steklo02
+    2300144: steklo03
+    2300146: steklo04
+    2300148: zagim prostoi01
+    2300150: zagim smoothed 01
+    2300152: zagim smoothed 02
+    2300154: zagim smoothed 03
+    2300156: zagim smoothed 04
+    2300158: zagim smoothed 05
+    2300160: zagim smoothed 06
+    2300162: zagim smoothed 07
+    2300164: zagim smoothed 08
+    2300166: zagim smoothed 09
+    2300168: zagim smoothed 10
+    2300170: zagim smoothed 11
+    2300172: zagim smoothed 12
+    2300174: zagim smoothed 13
+    2300176: zagim smoothed 14
+    2300178: zagim smoothed 15
+    2300180: zagim smoothed 16
+    3300000: boltik01
+    3300002: boltik02
+    3300004: boltik03
+    3300006: boltik04
+    3300008: boltik05
+    3300010: boltik06
+    3300012: boltik07
+    3300014: boltik08
+    3300016: boltik09
+    3300018: boltik10
+    3300020: boltik11
+    3300022: boltik12
+    3300024: boltik13
+    3300026: boltik14
+    3300028: boltik15
+    3300030: boltik16
+    3300032: boltik17
+    3300034: boltik18
+    3300036: boltik19
+    3300038: boltik20
+    3300040: boltik21
+    3300042: boltik22
+    3300044: boltik23
+    3300046: boltik24
+    3300048: Cylinder01
+    3300050: Cylinder02
+    3300052: Cylinder03
+    3300054: Cylinder04
+    3300056: Cylinder05
+    3300058: Cylinder06
+    3300060: Cylinder07
+    3300062: Cylinder08
+    3300064: Cylinder09
+    3300066: Cylinder10
+    3300068: Line02
+    3300070: Line03
+    3300072: Line04
+    3300074: Line05
+    3300076: Line06
+    3300078: Line07
+    3300080: Line08
+    3300082: Line09
+    3300084: Line10
+    3300086: Line11
+    3300088: Line12
+    3300090: Line13
+    3300092: Line16
+    3300094: Line17
+    3300096: Line18
+    3300098: Line19
+    3300100: Line20
+    3300102: Line21
+    3300104: Line22
+    3300106: Line23
+    3300108: Line24
+    3300110: Line25
+    3300112: metal list 01
+    3300114: metal list 02
+    3300116: plakat01
+    3300118: plakat02
+    3300120: rama01
+    3300122: rama02
+    3300124: rama03
+    3300126: rama04
+    3300128: rezinovye shtuki 01
+    3300130: rezinovye shtuki 02
+    3300132: rezinovye shtuki 03
+    3300134: rezinovye shtuki 04
+    3300136: rezinovye shtuki 05
+    3300138: rezinovye shtuki 06
+    3300140: steklo01
+    3300142: steklo02
+    3300144: steklo03
+    3300146: steklo04
+    3300148: zagim prostoi01
+    3300150: zagim smoothed 01
+    3300152: zagim smoothed 02
+    3300154: zagim smoothed 03
+    3300156: zagim smoothed 04
+    3300158: zagim smoothed 05
+    3300160: zagim smoothed 06
+    3300162: zagim smoothed 07
+    3300164: zagim smoothed 08
+    3300166: zagim smoothed 09
+    3300168: zagim smoothed 10
+    3300170: zagim smoothed 11
+    3300172: zagim smoothed 12
+    3300174: zagim smoothed 13
+    3300176: zagim smoothed 14
+    3300178: zagim smoothed 15
+    3300180: zagim smoothed 16
+    4300000: zagim prostoi01
+    4300002: Line23
+    4300004: zagim smoothed 01
+    4300006: zagim smoothed 04
+    4300008: Line02
+    4300010: Line03
+    4300012: zagim smoothed 03
+    4300014: zagim smoothed 02
+    4300016: Line05
+    4300018: Line04
+    4300020: steklo01
+    4300022: steklo02
+    4300024: plakat01
+    4300026: Line06
+    4300028: Cylinder04
+    4300030: zagim smoothed 09
+    4300032: zagim smoothed 12
+    4300034: Line07
+    4300036: zagim smoothed 16
+    4300038: Cylinder08
+    4300040: Line20
+    4300042: Line21
+    4300044: rezinovye shtuki 01
+    4300046: rezinovye shtuki 02
+    4300048: Cylinder03
+    4300050: Cylinder01
+    4300052: Line12
+    4300054: rama02
+    4300056: rama01
+    4300058: metal list 01
+    4300060: Line13
+    4300062: zagim smoothed 15
+    4300064: boltik07
+    4300066: boltik03
+    4300068: boltik08
+    4300070: boltik02
+    4300072: boltik09
+    4300074: boltik01
+    4300076: boltik12
+    4300078: boltik06
+    4300080: boltik11
+    4300082: boltik05
+    4300084: boltik04
+    4300086: boltik10
+    4300088: Line18
+    4300090: boltik17
+    4300092: boltik23
+    4300094: zagim smoothed 08
+    4300096: steklo03
+    4300098: steklo04
+    4300100: zagim smoothed 07
+    4300102: Line19
+    4300104: Line17
+    4300106: boltik18
+    4300108: zagim smoothed 05
+    4300110: zagim smoothed 06
+    4300112: Line16
+    4300114: boltik24
+    4300116: boltik19
+    4300118: boltik13
+    4300120: boltik14
+    4300122: boltik20
+    4300124: boltik22
+    4300126: plakat02
+    4300128: boltik21
+    4300130: boltik16
+    4300132: boltik15
+    4300134: Cylinder05
+    4300136: Line09
+    4300138: metal list 02
+    4300140: Line10
+    4300142: Cylinder06
+    4300144: zagim smoothed 14
+    4300146: zagim smoothed 11
+    4300148: zagim smoothed 10
+    4300150: Line11
+    4300152: rama03
+    4300154: rama04
+    4300156: Line08
+    4300158: Cylinder07
+    4300160: Line24
+    4300162: Line25
+    4300164: zagim smoothed 13
+    4300166: rezinovye shtuki 06
+    4300168: rezinovye shtuki 05
+    4300170: Cylinder10
+    4300172: rezinovye shtuki 03
+    4300174: rezinovye shtuki 04
+    4300176: Cylinder09
+    4300178: Cylinder02
+    4300180: Line22
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

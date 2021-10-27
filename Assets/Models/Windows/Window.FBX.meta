@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: 8845b4df9e7df3240a0ab2a5d24cd1bd
+timeCreated: 1536430262
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: a pan
+    100002: a pan 1
+    100004: Cap
+    100006: Cap 1
+    100008: Glass
+    100010: Glass 1
+    100012: Podakonik
+    100014: Ramm
+    100016: Ramm 1
+    100018: //RootNode
+    100020: Window
+    400000: a pan
+    400002: a pan 1
+    400004: Cap
+    400006: Cap 1
+    400008: Glass
+    400010: Glass 1
+    400012: Podakonik
+    400014: Ramm
+    400016: Ramm 1
+    400018: //RootNode
+    400020: Window
+    2100000: Glass
+    2100002: White paint
+    2100004: A pan
+    2100006: Podakonik
+    2300000: a pan
+    2300002: a pan 1
+    2300004: Cap
+    2300006: Cap 1
+    2300008: Glass
+    2300010: Glass 1
+    2300012: Podakonik
+    2300014: Ramm
+    2300016: Ramm 1
+    2300018: Window
+    3300000: a pan
+    3300002: a pan 1
+    3300004: Cap
+    3300006: Cap 1
+    3300008: Glass
+    3300010: Glass 1
+    3300012: Podakonik
+    3300014: Ramm
+    3300016: Ramm 1
+    3300018: Window
+    4300000: Glass
+    4300002: Glass
+    4300004: Ramm
+    4300006: Ramm
+    4300008: Window
+    4300010: a pan
+    4300012: a pan
+    4300014: Podakonik
+    4300016: Cap
+    4300018: Cap
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,256 @@
+fileFormatVersion: 2
+guid: a43e8423a7d7e5042b4e332cfb5f8b27
+timeCreated: 1553528708
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Box152
+    100002: Box153
+    100004: Box154
+    100006: Box155
+    100008: Box156
+    100010: Box157
+    100012: Box158
+    100014: Box159
+    100016: Cylinder147
+    100018: Cylinder148
+    100020: Cylinder149
+    100022: Cylinder150
+    100024: Cylinder151
+    100026: Cylinder152
+    100028: Cylinder153
+    100030: Cylinder154
+    100032: Cylinder155
+    100034: Cylinder156
+    100036: Cylinder157
+    100038: Cylinder158
+    100040: Cylinder159
+    100042: Cylinder160
+    100044: Cylinder161
+    100046: Cylinder162
+    100048: Cylinder163
+    100050: Cylinder164
+    100052: Cylinder165
+    100054: Cylinder166
+    100056: Cylinder167
+    100058: Cylinder168
+    100060: Cylinder169
+    100062: Cylinder170
+    100064: Group001
+    100066: Group002
+    100068: //RootNode
+    400000: Box152
+    400002: Box153
+    400004: Box154
+    400006: Box155
+    400008: Box156
+    400010: Box157
+    400012: Box158
+    400014: Box159
+    400016: Cylinder147
+    400018: Cylinder148
+    400020: Cylinder149
+    400022: Cylinder150
+    400024: Cylinder151
+    400026: Cylinder152
+    400028: Cylinder153
+    400030: Cylinder154
+    400032: Cylinder155
+    400034: Cylinder156
+    400036: Cylinder157
+    400038: Cylinder158
+    400040: Cylinder159
+    400042: Cylinder160
+    400044: Cylinder161
+    400046: Cylinder162
+    400048: Cylinder163
+    400050: Cylinder164
+    400052: Cylinder165
+    400054: Cylinder166
+    400056: Cylinder167
+    400058: Cylinder168
+    400060: Cylinder169
+    400062: Cylinder170
+    400064: Group001
+    400066: Group002
+    400068: //RootNode
+    2100000: Tree1
+    2100002: 'Material #399'
+    2300000: Box152
+    2300002: Box153
+    2300004: Box154
+    2300006: Box155
+    2300008: Box156
+    2300010: Box157
+    2300012: Box158
+    2300014: Box159
+    2300016: Cylinder147
+    2300018: Cylinder148
+    2300020: Cylinder149
+    2300022: Cylinder150
+    2300024: Cylinder151
+    2300026: Cylinder152
+    2300028: Cylinder153
+    2300030: Cylinder154
+    2300032: Cylinder155
+    2300034: Cylinder156
+    2300036: Cylinder157
+    2300038: Cylinder158
+    2300040: Cylinder159
+    2300042: Cylinder160
+    2300044: Cylinder161
+    2300046: Cylinder162
+    2300048: Cylinder163
+    2300050: Cylinder164
+    2300052: Cylinder165
+    2300054: Cylinder166
+    2300056: Cylinder167
+    2300058: Cylinder168
+    2300060: Cylinder169
+    2300062: Cylinder170
+    3300000: Box152
+    3300002: Box153
+    3300004: Box154
+    3300006: Box155
+    3300008: Box156
+    3300010: Box157
+    3300012: Box158
+    3300014: Box159
+    3300016: Cylinder147
+    3300018: Cylinder148
+    3300020: Cylinder149
+    3300022: Cylinder150
+    3300024: Cylinder151
+    3300026: Cylinder152
+    3300028: Cylinder153
+    3300030: Cylinder154
+    3300032: Cylinder155
+    3300034: Cylinder156
+    3300036: Cylinder157
+    3300038: Cylinder158
+    3300040: Cylinder159
+    3300042: Cylinder160
+    3300044: Cylinder161
+    3300046: Cylinder162
+    3300048: Cylinder163
+    3300050: Cylinder164
+    3300052: Cylinder165
+    3300054: Cylinder166
+    3300056: Cylinder167
+    3300058: Cylinder168
+    3300060: Cylinder169
+    3300062: Cylinder170
+    4300000: Box159
+    4300002: Box152
+    4300004: Box158
+    4300006: Box153
+    4300008: Box157
+    4300010: Box156
+    4300012: Box154
+    4300014: Box155
+    4300016: Cylinder167
+    4300018: Cylinder168
+    4300020: Cylinder165
+    4300022: Cylinder166
+    4300024: Cylinder160
+    4300026: Cylinder159
+    4300028: Cylinder157
+    4300030: Cylinder158
+    4300032: Cylinder154
+    4300034: Cylinder153
+    4300036: Cylinder147
+    4300038: Cylinder148
+    4300040: Cylinder150
+    4300042: Cylinder149
+    4300044: Cylinder152
+    4300046: Cylinder151
+    4300048: Cylinder155
+    4300050: Cylinder156
+    4300052: Cylinder162
+    4300054: Cylinder161
+    4300056: Cylinder163
+    4300058: Cylinder164
+    4300060: Cylinder169
+    4300062: Cylinder170
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

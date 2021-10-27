@@ -1,0 +1,214 @@
+fileFormatVersion: 2
+guid: fda8355a7f31c6546b3186b33dfd71bb
+timeCreated: 1543140684
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Arc01
+    100002: //RootNode
+    100004: Camera01
+    100006: Camera01.Target
+    100008: Camera02
+    100010: Camera02.Target
+    100012: ChamferBox01
+    100014: ChamferBox02
+    100016: ChamferBox03
+    100018: ChamferBox04
+    100020: Group01
+    100022: Group02
+    100024: Loft01
+    100026: Loft02
+    100028: Omni01
+    100030: Omni03
+    100032: Omni04
+    100034: Plane01
+    100036: Plane02
+    100038: Rectangle01
+    100040: Rectangle02
+    100042: Rectangle03
+    100044: Rectangle04
+    100046: Rectangle07
+    100048: Rectangle08
+    100050: Rectangle09
+    100052: Rectangle10
+    100054: Rectangle11
+    100056: Rectangle12
+    100058: Rectangle15
+    400000: Arc01
+    400002: //RootNode
+    400004: Camera01
+    400006: Camera01.Target
+    400008: Camera02
+    400010: Camera02.Target
+    400012: ChamferBox01
+    400014: ChamferBox02
+    400016: ChamferBox03
+    400018: ChamferBox04
+    400020: Group01
+    400022: Group02
+    400024: Loft01
+    400026: Loft02
+    400028: Omni01
+    400030: Omni03
+    400032: Omni04
+    400034: Plane01
+    400036: Plane02
+    400038: Rectangle01
+    400040: Rectangle02
+    400042: Rectangle03
+    400044: Rectangle04
+    400046: Rectangle07
+    400048: Rectangle08
+    400050: Rectangle09
+    400052: Rectangle10
+    400054: Rectangle11
+    400056: Rectangle12
+    400058: Rectangle15
+    2000000: Camera01
+    2000002: Camera02
+    2100000: 7 - Default
+    2100002: No Name
+    2100004: 7 - Default9
+    2100006: 1 - Default
+    2100008: 1 - Default56
+    2100010: 7 - Default9787
+    2100012: 7 - Defaultuy
+    2300000: ChamferBox01
+    2300002: ChamferBox02
+    2300004: ChamferBox03
+    2300006: ChamferBox04
+    2300008: Loft01
+    2300010: Loft02
+    2300012: Plane01
+    2300014: Plane02
+    2300016: Rectangle02
+    2300018: Rectangle03
+    2300020: Rectangle04
+    2300022: Rectangle07
+    2300024: Rectangle08
+    2300026: Rectangle09
+    2300028: Rectangle10
+    2300030: Rectangle11
+    2300032: Rectangle12
+    2300034: Rectangle15
+    3300000: ChamferBox01
+    3300002: ChamferBox02
+    3300004: ChamferBox03
+    3300006: ChamferBox04
+    3300008: Loft01
+    3300010: Loft02
+    3300012: Plane01
+    3300014: Plane02
+    3300016: Rectangle02
+    3300018: Rectangle03
+    3300020: Rectangle04
+    3300022: Rectangle07
+    3300024: Rectangle08
+    3300026: Rectangle09
+    3300028: Rectangle10
+    3300030: Rectangle11
+    3300032: Rectangle12
+    3300034: Rectangle15
+    4300000: Rectangle02
+    4300002: Rectangle03
+    4300004: Rectangle04
+    4300006: Rectangle07
+    4300008: Plane01
+    4300010: Rectangle08
+    4300012: Rectangle09
+    4300014: Rectangle10
+    4300016: Rectangle11
+    4300018: Rectangle12
+    4300020: Rectangle15
+    4300022: Plane02
+    4300024: Loft01
+    4300026: ChamferBox02
+    4300028: ChamferBox01
+    4300030: ChamferBox03
+    4300032: ChamferBox04
+    4300034: Loft02
+    9500000: //RootNode
+    10800000: Omni01
+    10800002: Omni03
+    10800004: Omni04
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

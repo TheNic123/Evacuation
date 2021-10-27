@@ -1,0 +1,272 @@
+fileFormatVersion: 2
+guid: a8ce1d498a791b944b629b817f41950f
+timeCreated: 1554498456
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: ChamferBox001
+    100002: ChamferBox002
+    100004: ChamferBox003
+    100006: ChamferBox004
+    100008: ChamferBox005
+    100010: ChamferBox006
+    100012: ChamferBox007
+    100014: ChamferBox008
+    100016: ChamferBox009
+    100018: ChamferBox010
+    100020: ChamferBox011
+    100022: ChamferBox012
+    100024: ChamferBox013
+    100026: ChamferBox014
+    100028: ChamferBox015
+    100030: ChamferBox017
+    100032: ChamferBox018
+    100034: //RootNode
+    100036: 'Federico 7- '
+    100038: frederico 13
+    100040: Line001
+    100042: Line002
+    100044: Line003
+    100046: Line004
+    100048: Line005
+    100050: Line006
+    100052: Line012
+    100054: Line013
+    100056: Line014
+    100058: Line015
+    100060: podi
+    100062: podi001
+    100064: podi002
+    100066: podi003
+    100068: podi004
+    100070: podi005
+    100072: podi006
+    100074: podi007
+    400000: ChamferBox001
+    400002: ChamferBox002
+    400004: ChamferBox003
+    400006: ChamferBox004
+    400008: ChamferBox005
+    400010: ChamferBox006
+    400012: ChamferBox007
+    400014: ChamferBox008
+    400016: ChamferBox009
+    400018: ChamferBox010
+    400020: ChamferBox011
+    400022: ChamferBox012
+    400024: ChamferBox013
+    400026: ChamferBox014
+    400028: ChamferBox015
+    400030: ChamferBox017
+    400032: ChamferBox018
+    400034: //RootNode
+    400036: 'Federico 7- '
+    400038: frederico 13
+    400040: Line001
+    400042: Line002
+    400044: Line003
+    400046: Line004
+    400048: Line005
+    400050: Line006
+    400052: Line012
+    400054: Line013
+    400056: Line014
+    400058: Line015
+    400060: podi
+    400062: podi001
+    400064: podi002
+    400066: podi003
+    400068: podi004
+    400070: podi005
+    400072: podi006
+    400074: podi007
+    2100000: wood_28
+    2100002: 'Material #26'
+    2100004: 'Material #27'
+    2300000: ChamferBox001
+    2300002: ChamferBox002
+    2300004: ChamferBox003
+    2300006: ChamferBox004
+    2300008: ChamferBox005
+    2300010: ChamferBox006
+    2300012: ChamferBox007
+    2300014: ChamferBox008
+    2300016: ChamferBox009
+    2300018: ChamferBox010
+    2300020: ChamferBox011
+    2300022: ChamferBox012
+    2300024: ChamferBox013
+    2300026: ChamferBox014
+    2300028: ChamferBox015
+    2300030: ChamferBox017
+    2300032: ChamferBox018
+    2300034: Line001
+    2300036: Line002
+    2300038: Line003
+    2300040: Line004
+    2300042: Line005
+    2300044: Line006
+    2300046: Line012
+    2300048: Line013
+    2300050: Line014
+    2300052: Line015
+    2300054: podi
+    2300056: podi001
+    2300058: podi002
+    2300060: podi003
+    2300062: podi004
+    2300064: podi005
+    2300066: podi006
+    2300068: podi007
+    3300000: ChamferBox001
+    3300002: ChamferBox002
+    3300004: ChamferBox003
+    3300006: ChamferBox004
+    3300008: ChamferBox005
+    3300010: ChamferBox006
+    3300012: ChamferBox007
+    3300014: ChamferBox008
+    3300016: ChamferBox009
+    3300018: ChamferBox010
+    3300020: ChamferBox011
+    3300022: ChamferBox012
+    3300024: ChamferBox013
+    3300026: ChamferBox014
+    3300028: ChamferBox015
+    3300030: ChamferBox017
+    3300032: ChamferBox018
+    3300034: Line001
+    3300036: Line002
+    3300038: Line003
+    3300040: Line004
+    3300042: Line005
+    3300044: Line006
+    3300046: Line012
+    3300048: Line013
+    3300050: Line014
+    3300052: Line015
+    3300054: podi
+    3300056: podi001
+    3300058: podi002
+    3300060: podi003
+    3300062: podi004
+    3300064: podi005
+    3300066: podi006
+    3300068: podi007
+    4300000: ChamferBox010
+    4300002: ChamferBox011
+    4300004: ChamferBox012
+    4300006: ChamferBox013
+    4300008: ChamferBox014
+    4300010: ChamferBox015
+    4300012: ChamferBox017
+    4300014: ChamferBox018
+    4300016: podi004
+    4300018: podi005
+    4300020: podi006
+    4300022: podi007
+    4300024: Line012
+    4300026: Line013
+    4300028: Line014
+    4300030: Line015
+    4300032: ChamferBox002
+    4300034: Line006
+    4300036: Line005
+    4300038: Line004
+    4300040: Line003
+    4300042: Line002
+    4300044: Line001
+    4300046: podi003
+    4300048: podi002
+    4300050: podi001
+    4300052: podi
+    4300054: ChamferBox009
+    4300056: ChamferBox008
+    4300058: ChamferBox007
+    4300060: ChamferBox006
+    4300062: ChamferBox005
+    4300064: ChamferBox004
+    4300066: ChamferBox003
+    4300068: ChamferBox001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
