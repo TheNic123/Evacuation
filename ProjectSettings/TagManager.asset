@@ -3,7 +3,29 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Board
+  - Locked_door
+  - Dirt
+  - Book_Door
+  - Window
+  - Light
+  - Stand#1
+  - Safe_stand
+  - Lock_cam
+  - Level2Doors
+  - Exit_key
+  - Stand#3
+  - Other
+  - Fire
+  - Stand#5
+  - Item
+  - Stand#4
+  - Stand#2
+  - Scarf
+  - Book
+  - Unbox_computer
+  - Computer_samorez3
   layers:
   - Default
   - TransparentFX
@@ -11,7 +33,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - Player
   - 
   - 
   - 
